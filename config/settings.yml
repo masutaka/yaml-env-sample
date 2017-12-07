@@ -1,0 +1,4 @@
+password: $CONFIELD_DBPASS|mypass
+user: $CONFIELD_DBUSER|root
+name: $CONFIELD_DBNAME|db_dev
+host: $CONFIELD_DBHOST|localhost
